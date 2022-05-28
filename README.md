@@ -23,3 +23,5 @@ The navbar also have effects which changes on scrolling the page down and up.
 
 
 ![Screenshot (388)](https://user-images.githubusercontent.com/95162790/170810120-2c4f006c-4d70-46c4-9e43-2405070a52b1.png)
+
+Hope you like it!
